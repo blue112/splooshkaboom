@@ -1,0 +1,15 @@
+{
+  "name": "sploosh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out.js",
+  "dependencies": {
+    "source-map-support": "^0.5.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
